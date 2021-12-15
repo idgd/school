@@ -1,0 +1,11 @@
+# This is our Git Ignore File
+
+# Paths
+/data
+/dev
+/src/inovonics
+/src/ui/__pycache__
+/src/api/__pycache__
+src/api/tasks/__pycache__
+.DS_Store
+.vscode/settings.json

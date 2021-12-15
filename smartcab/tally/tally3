@@ -1,0 +1,6 @@
+gamma = 0.25
+alpha = 0.25
+epsilon = 1.25
+64 runs with 100 episodes each
+6038/6400
+94.34375%
